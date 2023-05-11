@@ -1,0 +1,12 @@
+ul{
+    background-color: blueviolet;
+    color: azure;
+    width: 150px;
+    display: flex;
+    gap: 25px;
+}
+
+a{
+    color: azure;
+    text-decoration: none;
+}
